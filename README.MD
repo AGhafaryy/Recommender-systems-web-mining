@@ -6,6 +6,6 @@ Homeworks go as follows:
 * HW1: Linear regression and classification [Grade: 8/8]
 * HW2: Classification and Recommender systems [Grade: 8/8]
 * HW3: Read prediction and Rating prediction  [Grade: 8/8]
-* HW4: Text mining, content, structure and sequences [Grade: 8/8]
+* HW4: Text mining, content, structure and sequences (TF-IDF, Unigram, Ngram, Word2Vec) [Grade: 8/8]
 
 [Disclaimer]: These are answers to coursework, please consult your professor or check the academic integrity policies of your university before using it. 
